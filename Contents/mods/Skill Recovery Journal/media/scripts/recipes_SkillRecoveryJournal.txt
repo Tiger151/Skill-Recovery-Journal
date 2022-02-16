@@ -3,9 +3,6 @@ module Base
     recipe Bind Journal
         {
            Notebook/Journal,
-           LeatherStrips=3,
-           Woodglue/Glue,
-           Thread,
 
            Result:SkillRecoveryJournal,
 
